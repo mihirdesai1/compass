@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Colors */
+  --color-white: #ffffff;
+  --color-black: #0a0a0a;
+  --color-blue: #2563eb;
+  --color-blue-dark: #1d4ed8;
+  --color-blue-light: #dbeafe;
+
+  /* Grays */
+  --color-gray-50: #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-400: #9ca3af;
+  --color-gray-600: #4b5563;
+  --color-gray-900: #111827;
+
+  /* Fonts */
+  --font-sans: var(--font-dm-sans), system-ui, sans-serif;
+  --font-serif: var(--font-fraunces), Georgia, serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-white);
+    color: var(--color-black);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+  }
+}
+
+@layer components {
+  .logo {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    text-transform: lowercase;
+  }
+
+  .btn-primary {
+    @apply bg-blue-600 text-white px-8 py-3 rounded-lg font-medium transition-all duration-200 hover:bg-blue-700 active:scale-95;
+  }
+
+  .btn-secondary {
+    @apply border border-gray-200 text-black px-8 py-3 rounded-lg font-medium transition-all duration-200 hover:border-blue-600 hover:text-blue-600;
+  }
+
+  .card {
+    @apply bg-white border border-gray-200 rounded-xl p-6 transition-all duration-200;
+  }
+
+  .card-hover {
+    @apply hover:border-blue-600 cursor-pointer;
+  }
+
+  .input {
+    @apply w-full px-4 py-3 border border-gray-200 rounded-lg focus:outline-none focus:border-blue-600 transition-colors;
+  }
+}
+
+/* Animation utilities */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-pulse-subtle {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Progress bar */
+.progress-bar {
+  @apply h-1 bg-gray-200 rounded-full overflow-hidden;
+}
+
+.progress-bar-fill {
+  @apply h-full bg-blue-600 transition-all duration-500;
+}
+
+/* Chat messages */
+.message-user {
+  @apply bg-blue-600 text-white rounded-2xl rounded-br-md px-4 py-2 max-w-[80%] ml-auto;
+}
+
+.message-assistant {
+  @apply bg-gray-100 text-black rounded-2xl rounded-bl-md px-4 py-2 max-w-[80%];
+}

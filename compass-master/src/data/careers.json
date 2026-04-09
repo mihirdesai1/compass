@@ -1,0 +1,152 @@
+[
+  {
+    "category": "AI Engineering",
+    "title": "Junior Prompt Engineer",
+    "sector": "Tech",
+    "salaries": { "entry_lpa": "15-25", "senior_lpa": "120-180" },
+    "pune_blr_premium": "+20%",
+    "success_profile": { "min_iq": 130, "min_c": 75, "min_o": 95, "min_e": 40, "min_a": 50 },
+    "burnout_risk_profile": "High Cognitive Load",
+    "getting_the_job": { "phase_4_entry_hack": "Identify a target firm’s AI-generated blog hallucinations. Send a 'Logic Failure' report to the CTO showing exactly where their model is lying to customers, with a corrected system prompt attached." }
+  },
+  {
+    "category": "AI Engineering",
+    "title": "AI Security Analyst",
+    "sector": "Cybersecurity",
+    "salaries": { "entry_lpa": "12-18", "senior_lpa": "90-150" },
+    "pune_blr_premium": "+15%",
+    "success_profile": { "min_iq": 135, "min_c": 90, "min_o": 70, "min_e": 30, "min_a": 40 },
+    "burnout_risk_profile": "High Risk Compliance Stress",
+    "getting_the_job": { "phase_4_entry_hack": "Social engineer a support rep to reveal their internal LLM system prompt. Send the jailbreak to the CSO with a bill for an 'Unauthorized Audit' and a solution." }
+  },
+  {
+    "category": "Revenue Ops",
+    "title": "Sales Development Rep (SDR)",
+    "sector": "Sales",
+    "salaries": { "entry_lpa": "8-12", "senior_lpa": "50-120" },
+    "pune_blr_premium": "+15%",
+    "success_profile": { "min_iq": 110, "min_c": 80, "min_o": 60, "min_e": 95, "min_a": 20 },
+    "burnout_risk_profile": "Social Exhaustion",
+    "getting_the_job": { "phase_4_entry_hack": "Scrape the LinkedIn 'Connections' of the VP of Sales. Find their biggest lost lead. Record a video showing how you would have closed that specific deal and send it to them at 7 AM on a Monday." }
+  },
+  {
+    "category": "Industrial",
+    "title": "Elevator Systems Apprentice",
+    "sector": "High Trades",
+    "salaries": { "entry_lpa": "6-10", "senior_lpa": "45-80" },
+    "pune_blr_premium": "+10%",
+    "success_profile": { "min_iq": 105, "min_c": 95, "min_o": 40, "min_e": 50, "min_a": 60 },
+    "burnout_risk_profile": "Physical Precision Fatigue",
+    "getting_the_job": { "phase_4_entry_hack": "Infiltrate building committee meetings in Baner/Hinjewadi. Identify lifts with 3+ breakdowns a month. Pitch a 'Predictive IoT Retrofit' as an independent contractor before the OEM arrives." }
+  },
+  {
+    "category": "Life Sciences",
+    "title": "Clinical Research Coordinator",
+    "sector": "Clinical Ops",
+    "salaries": { "entry_lpa": "7-11", "senior_lpa": "40-90" },
+    "pune_blr_premium": "+12%",
+    "success_profile": { "min_iq": 120, "min_c": 95, "min_o": 50, "min_e": 40, "min_a": 65 },
+    "burnout_risk_profile": "Regulatory Friction",
+    "getting_the_job": { "phase_4_entry_hack": "Scour public trial protocols at Serum Institute for 'Inclusion Criteria' logic errors. Present the efficiency hack to the Lead PI as a way to shave 3 months off the Phase II timeline." }
+  },
+  {
+    "category": "Tech Ops",
+    "title": "Junior SOC Analyst",
+    "sector": "Cybersecurity",
+    "salaries": { "entry_lpa": "10-14", "senior_lpa": "40-75" },
+    "pune_blr_premium": "+20%",
+    "success_profile": { "min_iq": 125, "min_c": 90, "min_o": 60, "min_e": 30, "min_a": 40 },
+    "burnout_risk_profile": "High Alert Fatigue",
+    "getting_the_job": { "phase_4_entry_hack": "Monitor a target firm's public IP range for open ports. Send a 'Security Posture Audit' to their IT manager showing them exactly what you found before a hacker does." }
+  },
+  {
+    "category": "Tech",
+    "title": "DevOps Intern",
+    "sector": "Infrastructure",
+    "salaries": { "entry_lpa": "8-12", "senior_lpa": "60-110" },
+    "pune_blr_premium": "+25%",
+    "success_profile": { "min_iq": 128, "min_c": 85, "min_o": 80, "min_e": 40, "min_a": 50 },
+    "burnout_risk_profile": "System Critical Stress",
+    "getting_the_job": { "phase_4_entry_hack": "Build a CI/CD pipeline for an open-source tool the target company uses. Submit a PR that fixes their build-speed bottleneck and link it in your application." }
+  },
+  {
+    "category": "Sales",
+    "title": "Customer Success Jr",
+    "sector": "Revenue Velocity",
+    "salaries": { "entry_lpa": "7-11", "senior_lpa": "35-70" },
+    "pune_blr_premium": "+15%",
+    "success_profile": { "min_iq": 115, "min_c": 80, "min_o": 70, "min_e": 80, "min_a": 70 },
+    "burnout_risk_profile": "Moderate",
+    "getting_the_job": { "phase_4_entry_hack": "Find a user complaining about a target firm's software on Reddit. Write a 3-step 'Value Realization' guide for that user and send it to the firm's Head of CS as proof of initiative." }
+  },
+  {
+    "category": "Marketing",
+    "title": "Digital Marketing Exec",
+    "sector": "Growth",
+    "salaries": { "entry_lpa": "5-9", "senior_lpa": "25-55" },
+    "pune_blr_premium": "+15%",
+    "success_profile": { "min_iq": 110, "min_c": 75, "min_o": 90, "min_e": 70, "min_a": 50 },
+    "burnout_risk_profile": "High Campaign Volatility",
+    "getting_the_job": { "phase_4_entry_hack": "Run a $50 A/B test on a target company’s ad copy using your own money. Present the winning creative and the ROAS data to their Marketing Lead as your resume." }
+  },
+  {
+    "category": "Industrial",
+    "title": "Wind Turbine Tech",
+    "sector": "Clean Energy",
+    "salaries": { "entry_lpa": "9-13", "senior_lpa": "40-65" },
+    "pune_blr_premium": "+5%",
+    "success_profile": { "min_iq": 112, "min_c": 95, "min_o": 50, "min_e": 40, "min_a": 50 },
+    "burnout_risk_profile": "Extreme Physical Risk",
+    "getting_the_job": { "phase_4_entry_hack": "Get a basic drone license. Pitch yourself to wind farm operators in Maharashtra as a 'Remote Blade Inspector' to reduce their high-risk climbing hours." }
+  },
+  {
+    "category": "Compliance",
+    "title": "QA Associate (Entry)",
+    "sector": "Manufacturing",
+    "salaries": { "entry_lpa": "6-10", "senior_lpa": "30-55" },
+    "pune_blr_premium": "+15%",
+    "success_profile": { "min_iq": 118, "min_c": 98, "min_o": 40, "min_e": 30, "min_a": 50 },
+    "burnout_risk_profile": "High Document Fatigue",
+    "getting_the_job": { "phase_4_entry_hack": "Identify a recurring QC failure in a local Tier-2 automotive supplier. Draft a 'Lean Six Sigma' corrective action plan and hand-deliver it to the Plant Manager." }
+  },
+  {
+    "category": "Logistics",
+    "title": "Fleet Operations Coord",
+    "sector": "Supply Chain",
+    "salaries": { "entry_lpa": "5-8", "senior_lpa": "25-50" },
+    "pune_blr_premium": "+10%",
+    "success_profile": { "min_iq": 110, "min_c": 90, "min_o": 60, "min_e": 60, "min_a": 50 },
+    "burnout_risk_profile": "High Operational Stress",
+    "getting_the_job": { "phase_4_entry_hack": "Map out the 5 most fuel-inefficient routes for a local logistics aggregator using telematics data. Present the 'Fuel Alpha' fix to the Operations Director." }
+  },
+  {
+    "category": "Admin",
+    "title": "FOIA Specialist (Jr)",
+    "sector": "Legal/Gov",
+    "salaries": { "entry_lpa": "6-9", "senior_lpa": "25-45" },
+    "pune_blr_premium": "+5%",
+    "success_profile": { "min_iq": 122, "min_c": 95, "min_o": 60, "min_e": 30, "min_a": 40 },
+    "burnout_risk_profile": "High Bureaucratic Friction",
+    "getting_the_job": { "phase_4_entry_hack": "File 5 RTI requests regarding local municipal spending anomalies. Package the results into a 'Data transparency' report and send it to local newsrooms as a portfolio." }
+  },
+  {
+    "category": "Finance",
+    "title": "Staff Accountant",
+    "sector": "Corporate",
+    "salaries": { "entry_lpa": "7-11", "senior_lpa": "35-70" },
+    "pune_blr_premium": "+10%",
+    "success_profile": { "min_iq": 125, "min_c": 98, "min_o": 40, "min_e": 30, "min_a": 40 },
+    "burnout_risk_profile": "Extreme Document Fatigue",
+    "getting_the_job": { "phase_4_entry_hack": "Audit a target company’s public financial statements for 'deferred tax' inconsistencies. Send a summary to the CFO showing them where they might be leaking cash." }
+  },
+  {
+    "category": "Specialist",
+    "title": "Sustainability Analyst",
+    "sector": "ESG",
+    "salaries": { "entry_lpa": "6-10", "senior_lpa": "30-60" },
+    "pune_blr_premium": "+12%",
+    "success_profile": { "min_iq": 120, "min_c": 85, "min_o": 95, "min_e": 50, "min_a": 70 },
+    "burnout_risk_profile": "Moderate",
+    "getting_the_job": { "phase_4_entry_hack": "Calculate the carbon footprint of a target firm’s primary shipping route. Present a 'Green Logistics' plan that saves 10% on carbon credits." }
+  }
+]
